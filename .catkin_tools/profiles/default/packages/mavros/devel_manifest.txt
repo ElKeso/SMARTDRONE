@@ -1,0 +1,21 @@
+mavros/mavros
+/home/smartbot/ROS_DRONE/devel/.private/mavros/cmake.lock /home/smartbot/ROS_DRONE/devel/./cmake.lock
+/home/smartbot/ROS_DRONE/devel/.private/mavros/lib/libmavros_plugins.so /home/smartbot/ROS_DRONE/devel/lib/libmavros_plugins.so
+/home/smartbot/ROS_DRONE/devel/.private/mavros/lib/libmavros.so /home/smartbot/ROS_DRONE/devel/lib/libmavros.so
+/home/smartbot/ROS_DRONE/devel/.private/mavros/lib/python3/dist-packages/mavros/__init__.py /home/smartbot/ROS_DRONE/devel/lib/python3/dist-packages/mavros/__init__.py
+/home/smartbot/ROS_DRONE/devel/.private/mavros/lib/pkgconfig/mavros.pc /home/smartbot/ROS_DRONE/devel/lib/pkgconfig/mavros.pc
+/home/smartbot/ROS_DRONE/devel/.private/mavros/lib/mavros/mavftp /home/smartbot/ROS_DRONE/devel/lib/mavros/mavftp
+/home/smartbot/ROS_DRONE/devel/.private/mavros/lib/mavros/cmake.lock /home/smartbot/ROS_DRONE/devel/lib/mavros/cmake.lock
+/home/smartbot/ROS_DRONE/devel/.private/mavros/lib/mavros/mavwp /home/smartbot/ROS_DRONE/devel/lib/mavros/mavwp
+/home/smartbot/ROS_DRONE/devel/.private/mavros/lib/mavros/mavsys /home/smartbot/ROS_DRONE/devel/lib/mavros/mavsys
+/home/smartbot/ROS_DRONE/devel/.private/mavros/lib/mavros/event_launcher /home/smartbot/ROS_DRONE/devel/lib/mavros/event_launcher
+/home/smartbot/ROS_DRONE/devel/.private/mavros/lib/mavros/mavparam /home/smartbot/ROS_DRONE/devel/lib/mavros/mavparam
+/home/smartbot/ROS_DRONE/devel/.private/mavros/lib/mavros/mavsafety /home/smartbot/ROS_DRONE/devel/lib/mavros/mavsafety
+/home/smartbot/ROS_DRONE/devel/.private/mavros/lib/mavros/mavros_node /home/smartbot/ROS_DRONE/devel/lib/mavros/mavros_node
+/home/smartbot/ROS_DRONE/devel/.private/mavros/lib/mavros/mavsetp /home/smartbot/ROS_DRONE/devel/lib/mavros/mavsetp
+/home/smartbot/ROS_DRONE/devel/.private/mavros/lib/mavros/install_geographiclib_datasets.sh /home/smartbot/ROS_DRONE/devel/lib/mavros/install_geographiclib_datasets.sh
+/home/smartbot/ROS_DRONE/devel/.private/mavros/lib/mavros/checkid /home/smartbot/ROS_DRONE/devel/lib/mavros/checkid
+/home/smartbot/ROS_DRONE/devel/.private/mavros/lib/mavros/gcs_bridge /home/smartbot/ROS_DRONE/devel/lib/mavros/gcs_bridge
+/home/smartbot/ROS_DRONE/devel/.private/mavros/lib/mavros/mavcmd /home/smartbot/ROS_DRONE/devel/lib/mavros/mavcmd
+/home/smartbot/ROS_DRONE/devel/.private/mavros/share/mavros/cmake/mavrosConfig.cmake /home/smartbot/ROS_DRONE/devel/share/mavros/cmake/mavrosConfig.cmake
+/home/smartbot/ROS_DRONE/devel/.private/mavros/share/mavros/cmake/mavrosConfig-version.cmake /home/smartbot/ROS_DRONE/devel/share/mavros/cmake/mavrosConfig-version.cmake

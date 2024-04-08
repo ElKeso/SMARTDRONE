@@ -1,0 +1,15 @@
+[31m[1mCMake Error[0m at /home/smartbot/ROS_DRONE/src/dronemap/CMakeLists.txt:139 (add_executable):
+  Cannot find source file:
+
+    src/dronemap_node.py
+
+  Tried extensions .c .C .c++ .cc .cpp .cxx .cu .m .M .mm .h .hh .h++ .hm
+  .hpp .hxx .in .txx
+
+
+[31m[1mCMake Error[0m at /home/smartbot/ROS_DRONE/src/dronemap/CMakeLists.txt:139 (add_executable):
+  No SOURCES given to target: dronemap
+
+
+CMake Generate step failed.  Build files cannot be regenerated correctly.
+make: *** [Makefile:950: cmake_check_build_system] Error 1

@@ -1,0 +1,4 @@
+[35m[1mScanning dependencies of target drone_manual_console[0m
+make[2]: *** No rule to make target 'CMakeFiles/drone_manual_console.dir/build'.  Stop.
+make[1]: *** [CMakeFiles/Makefile2:185: CMakeFiles/drone_manual_console.dir/all] Error 2
+make: *** [Makefile:141: all] Error 2

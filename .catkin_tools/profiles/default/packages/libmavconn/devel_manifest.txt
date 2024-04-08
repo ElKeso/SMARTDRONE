@@ -1,0 +1,7 @@
+mavros/libmavconn
+/home/smartbot/ROS_DRONE/devel/.private/libmavconn/cmake.lock /home/smartbot/ROS_DRONE/devel/./cmake.lock
+/home/smartbot/ROS_DRONE/devel/.private/libmavconn/lib/libmavconn.so /home/smartbot/ROS_DRONE/devel/lib/libmavconn.so
+/home/smartbot/ROS_DRONE/devel/.private/libmavconn/lib/pkgconfig/libmavconn.pc /home/smartbot/ROS_DRONE/devel/lib/pkgconfig/libmavconn.pc
+/home/smartbot/ROS_DRONE/devel/.private/libmavconn/share/libmavconn/cmake/libmavconn-extras.cmake /home/smartbot/ROS_DRONE/devel/share/libmavconn/cmake/libmavconn-extras.cmake
+/home/smartbot/ROS_DRONE/devel/.private/libmavconn/share/libmavconn/cmake/libmavconnConfig-version.cmake /home/smartbot/ROS_DRONE/devel/share/libmavconn/cmake/libmavconnConfig-version.cmake
+/home/smartbot/ROS_DRONE/devel/.private/libmavconn/share/libmavconn/cmake/libmavconnConfig.cmake /home/smartbot/ROS_DRONE/devel/share/libmavconn/cmake/libmavconnConfig.cmake

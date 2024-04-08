@@ -1,0 +1,8 @@
+prefix=/home/smartbot/ROS_DRONE/devel
+exec_prefix=/home/smartbot/ROS_DRONE/devel
+includedir=${prefix}/include
+
+Name: mavlink
+Description: MAVLink micro air vehicle marshalling / communication library
+Version: 2021.3.3
+Cflags: -I${includedir}

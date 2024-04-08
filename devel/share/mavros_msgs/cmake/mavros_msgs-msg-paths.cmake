@@ -1,0 +1,1 @@
+/home/smartbot/ROS_DRONE/devel/.private/mavros_msgs/share/mavros_msgs/cmake/mavros_msgs-msg-paths.cmake

@@ -1,0 +1,12 @@
+Symlinking /home/smartbot/ROS_DRONE/devel/./local_setup.zsh
+Symlinking /home/smartbot/ROS_DRONE/devel/./local_setup.bash
+Symlinking /home/smartbot/ROS_DRONE/devel/./setup.bash
+Symlinking /home/smartbot/ROS_DRONE/devel/./cmake.lock
+Symlinking /home/smartbot/ROS_DRONE/devel/./local_setup.sh
+Symlinking /home/smartbot/ROS_DRONE/devel/./_setup_util.py
+Symlinking /home/smartbot/ROS_DRONE/devel/./setup.zsh
+Symlinking /home/smartbot/ROS_DRONE/devel/./setup.sh
+Symlinking /home/smartbot/ROS_DRONE/devel/./env.sh
+Symlinking /home/smartbot/ROS_DRONE/devel/lib/pkgconfig/catkin_tools_prebuild.pc
+Symlinking /home/smartbot/ROS_DRONE/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig.cmake
+Symlinking /home/smartbot/ROS_DRONE/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig-version.cmake

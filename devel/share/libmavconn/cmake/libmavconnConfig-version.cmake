@@ -1,0 +1,1 @@
+/home/smartbot/ROS_DRONE/devel/.private/libmavconn/share/libmavconn/cmake/libmavconnConfig-version.cmake

@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/smartbot/ROS_DRONE/devel/.private/catkin_tools_prebuild/setup.sh

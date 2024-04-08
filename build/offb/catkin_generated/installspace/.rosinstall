@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/smartbot/ROS_DRONE/install/setup.sh

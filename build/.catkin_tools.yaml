@@ -1,0 +1,6 @@
+devel_space: /home/smartbot/ROS_DRONE/devel
+install: false
+install_space: /home/smartbot/ROS_DRONE/install
+profile: default
+source_space: /home/smartbot/ROS_DRONE/src
+workspace: /home/smartbot/ROS_DRONE

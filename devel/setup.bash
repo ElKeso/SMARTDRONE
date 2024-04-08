@@ -1,0 +1,1 @@
+/home/smartbot/ROS_DRONE/devel/.private/catkin_tools_prebuild/setup.bash

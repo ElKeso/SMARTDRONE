@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/smartbot/ROS_DRONE/devel/.private/libmavconn/setup.sh

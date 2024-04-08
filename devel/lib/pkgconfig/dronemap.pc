@@ -1,0 +1,1 @@
+/home/smartbot/ROS_DRONE/devel/.private/dronemap/lib/pkgconfig/dronemap.pc
